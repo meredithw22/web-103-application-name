@@ -10,5 +10,6 @@ press again and another horoscope with be looped through.
 
 
 
+![103-horoscoperesult](https://user-images.githubusercontent.com/95877939/163912299-f747e221-7747-4129-9ddb-26e6fef0224e.jpg)
 
-![103-horoscoperesult](https://user-images.githubusercontent.com/95877939/163912140-55192e2d-3115-45a2-bfde-a16a2d8991d1.jpg)
+
